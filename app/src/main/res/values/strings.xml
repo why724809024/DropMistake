@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DropMistake</string>
+    <string name="title_home">搜题</string>
+    <string name="title_dashboard">组卷</string>
+    <string name="title_notifications">用户中心</string>
+    <string name="clicksearch">点击输入搜索题目</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

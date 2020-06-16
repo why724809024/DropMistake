@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorGreen">#8DB87C</color>
+    <color name="colorDarkGreen">#92b06a</color>
+    <color name="colorOrange">#ED8A3F</color>
+    <color name="colorYellow">#F5D769</color>
+    <color name="colorButtonFont">#FFFFFF</color>
+    <color name="colorDarkYellow">#FFCB18</color>
+    <color name="colorDDYellow">#FEB729</color>
+    <color name="colorLigYellow">#FFD574</color>
+    <color name="colorLLYellow">#fff591</color>
+    <color name="colorWhite">#FDFDEB</color>
+    <color name="pureWhite">#FFFFFF</color>
+</resources>
